@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**JurateKubiliene/JurateKubiliene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+🎓 Currently studying Data Analytics at Turing College  
+🎯 Open to new opportunities in the Data Analytics field  
+❤️ I am passionate about life-long learning  
+👥 I am a team player with strong interpersonal skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Networks
+
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jurate.seskaite@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/j%C5%ABrat%C4%97-kubilien%C4%97-802923109/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)]([https://www.facebook.com/jurate.seskaite])
+
