@@ -17,9 +17,4 @@
 
 ## 💻 Technology I Use
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/en/5/5b/SQL_Logo.svg" width="50" height="50">
-<img src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" width="150" height="90"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="150" height="90"><img src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" width="100" height="90"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="150" height="90"><img src="https://logos-world.net/power-bi-logo/" width="50" height="90"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="50" height="90">
