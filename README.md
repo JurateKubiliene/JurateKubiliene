@@ -1,4 +1,4 @@
-![Cover_photo](JurateKubiliene.github.io/blob/main/Header%20img_Github%20(1).png)
+![Cover_photo](https://github.com/JurateKubiliene/JurateKubiliene.github.io/blob/main/Header%20img_Github%20(1).png)
 
 ## 👋 Hi there! My name is Jurate and I am a Data Analyst 📊
 
