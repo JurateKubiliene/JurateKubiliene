@@ -17,9 +17,9 @@
 
 ## 💻 Technology I Use
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
-![SQL](https://upload.wikimedia.org/wikipedia/en/5/5b/SQL_Logo.svg)
-![BigQuery](https://cloud.google.com/images/social-icon-google-cloud-1200-630.png)
-![Tableau](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png)
-![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg)
-![Excel](https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/en/5/5b/SQL_Logo.svg" width="50" height="50">
+<img src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" width="50" height="50">
