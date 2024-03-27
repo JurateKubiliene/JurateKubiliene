@@ -1,6 +1,7 @@
 ## 👋 Hi there! What's new?
 
-My name is Jurate, I was named after the mermaid from an ancient Lithuanian folk tale. Hence, my undying love for the sea 🌊 ![GIF](<iframe src="https://giphy.com/embed/rRRpwBEXob7HO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/artists-on-tumblr-foxadhd-rRRpwBEXob7HO">via GIPHY</a></p>)
+My name is Jurate, I was named after the mermaid from an ancient Lithuanian folk tale. Hence, my undying love for the sea 🌊  
+![GIF](https://giphy.com/embed/rRRpwBEXob7HO)
  
 🎓 Currently I am up to my elbows in studies of Data Analytics at Turing College  
 ❤️ I am passionate about life-long learning  
