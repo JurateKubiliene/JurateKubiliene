@@ -6,7 +6,7 @@ My name is Jurate, I was named after the mermaid from an ancient Lithuanian folk
 🎓 Currently I am up to my elbows in studies of Data Analytics at Turing College  
 ❤️ I am passionate about life-long learning  
 💃 I enjoy Lindy-Hop and 🎾 playing tennis  
-🏝️ My favorite places on earth are Neringa (Lithuania) and Madeira (Portugal)
+🏝️ My favorite places on planet Earth are Neringa (Lithuania) and Madeira (Portugal)
 
 ## Let's connect!
 
