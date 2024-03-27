@@ -1,19 +1,21 @@
-## 👋 Hi there! My name is Jurate and I am a Data Analyst 📊
+## 👋 Hi there! What's new?
 
-# About Me
+My name is Jurate, I was named after the mermaid from an ancient Lithuanian folk tale. Hence, my undying love for the sea 🌊
+ 
+🎓 Currently I am up to my elbows in studies of Data Analytics at Turing College  
+❤️ I am passionate about life-long learning  
+💃 I enjoy Lindy-Hop and 🎾 playing tennis  
+🏝️ My favorite places on earth are Neringa (Lithuania) and Madeira (Portugal)
 
-🎓 Currently studying Data Analytics at Turing College  
-🎯 Open to new opportunities in the Data Analytics field  
-❤️ Passionate about life-long learning  
-👥 Team player with strong interpersonal skills
-
-## Let's Connect!
+## Let's connect!
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jurate.seskaite@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/j%C5%ABrat%C4%97-kubilien%C4%97-802923109/)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/jurate.seskaite)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/j%C5%ABrat%C4%97-kubilien%C4%97-802923109/)  
 
-## 💻 Tools I Use
+## My Tableau Portfolio  
+
+
+## Other tools I use
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/SQL_icon.svg" alt="SQL" width="50" height="50">
