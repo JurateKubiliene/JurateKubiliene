@@ -13,12 +13,12 @@
 
 ### Items I have in my toolkit
 
-- Databases: SQL, MySQL, Relational databases, BigQuery
-- Data Visualization: Tableau, PowerBI, Spreadsheets
-- Python: Pandas, Numpy, Matplotlib, Seaborn, Plotly, EDA
-- Analytical Methods: Data cleaning, Cohort analysis, Retention analysis, Churn analysis,
+- **Databases:** SQL, MySQL, Relational databases, BigQuery
+- **Data Visualization:** Tableau, PowerBI, Spreadsheets
+- **Python:** Pandas, Numpy, Matplotlib, Seaborn, Plotly, EDA
+- **Analytical Methods:** Data cleaning, Cohort analysis, Retention analysis, Churn analysis,
   Funnel Analysis, Customer segmentation analysis, RFM & CLV
-- Statistics/Machine Learning: A/B testing, Linear & Logistic regression
+- **Statistics/Machine Learning:** A/B testing, Linear & Logistic regression
 
 ## Let's connect!
 
