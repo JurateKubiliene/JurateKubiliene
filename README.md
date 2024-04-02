@@ -1,14 +1,15 @@
 ## 👋 Hi there! What's new?
 
 My name is Jurate, I was named after the mermaid from an ancient Lithuanian folk tale. Hence, my undying love for the sea ❤️🌊  
-<p align="right">
- <img src="https://media.giphy.com/media/rRRpwBEXob7HO/giphy.gif" alt="GIF" width="300" height="300">
-</p>
-
+<p float="left">
+  <img src="https://media.giphy.com/media/rRRpwBEXob7HO/giphy.gif" alt="GIF" width="300" height="300" style="float: right;">  
 🎓 Currently I am up to my elbows in studies of Data Analytics at Turing College  
 ❤️ I am passionate about life-long learning  
 💃 I enjoy Lindy-Hop and 🎾 playing tennis  
 🏝️ My favorite places on planet Earth are Neringa (Lithuania) and Madeira (Portugal)
+</p>
+
+
 
 ## Let's connect!
 
