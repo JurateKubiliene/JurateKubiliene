@@ -1,9 +1,8 @@
 ## 👋 Hi there! What's new?
 <p>My name is Jurate, I was named after the mermaid from an ancient Lithuanian folk tale. Hence, my undying love for the sea ❤️🌊</p>  
 
-  
-<div style="display: flex;">
-  <div style="flex: 1;">
+<div> 
+  <img src="https://media.giphy.com/media/rRRpwBEXob7HO/giphy.gif" alt="GIF" width="300" height="300" align="right">
     <ul>
       <li>🎓 Currently I am up to my elbows in studies of Data Analytics at Turing College</li>
       <li>❤️ I am passionate about life-long learning</li>
@@ -11,10 +10,15 @@
       <li>🏝️ My favorite places on planet Earth are Neringa (Lithuania) and Madeira (Portugal)</li>
     </ul>
   </div>
-  <div>
-    <img src="https://media.giphy.com/media/rRRpwBEXob7HO/giphy.gif" alt="GIF" width="300" height="300">
-  </div>
-</div>
+
+### Items I have in my toolkit
+
+- Databases: SQL, MySQL, Relational databases, BigQuery
+- Data Visualization: Tableau, PowerBI, Spreadsheets
+- Python: Pandas, Numpy, Matplotlib, Seaborn, Plotly, EDA
+- Analytical Methods: Data cleaning, Cohort analysis, Retention analysis, Churn analysis,
+  Funnel Analysis, Customer segmentation analysis, RFM & CLV
+- Statistics/Machine Learning: A/B testing, Linear & Logistic regression
 
 ## Let's connect!
 
@@ -25,10 +29,4 @@
 
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/jurate.kubiliene/vizzes)
 
-## Tools I use
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 	![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
 
