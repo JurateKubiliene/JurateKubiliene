@@ -5,6 +5,7 @@
   <img src="https://media.giphy.com/media/rRRpwBEXob7HO/giphy.gif" alt="GIF" width="300" height="300" align="right">
     <ul>
       <li>🎓 Currently I am up to my elbows in studies of Data Analytics at Turing College</li>
+      <li>💪 Just became a Junior Team Lead at Turing College! I will be assisting fellow data analysts with their studies, projects, and leading them to solving the issues they face.</li>
       <li>❤️ I am passionate about life-long learning</li>
       <li>💃 I enjoy Lindy-Hop and 🎾 playing tennis</li>
       <li>🏝️ My favorite places on planet Earth are Neringa (Lithuania) and Madeira (Portugal)</li>
